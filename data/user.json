@@ -1,7 +1,7 @@
 {
   "name": "Jugunu Singh",
-  "status": "Front-End Web Engineer",
-  "description": "I am passionate and interested in the ever-growing field of Web Front-End development",
+  "status": "Full Stack Web Developer",
+  "description": "I am passionate and interested in the ever-growing field of Web development",
   "navigations": [
     {
       "id": 1,
@@ -18,58 +18,54 @@
       "name": "Projects",
       "url": "/projects"
     },
+    
     {
       "id": 4,
-      "name": "Articles",
-      "url": "https://edwintantawi.medium.com/"
-    },
-    {
-      "id": 5,
       "name": "About",
       "url": "/about"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Contact",
       "url": "/contact"
     }
   ],
   "services": [
+   
     {
       "id": 1,
-      "name": "Ui Ux design",
-      "description": "Develop a good user interface and user experience, with a beautiful and comfortable appearance",
-      "icon": "/services/service-uiux.svg"
-    },
-    {
-      "id": 2,
       "name": "Website dev",
       "description": "Developing a website appearance based on design into a website that can be use. With good performance",
       "icon": "/services/service-website.svg"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "WebApps dev",
       "description": "Developing a very well-functioning web applications, various features and performance",
       "icon": "/services/service-webapps.svg"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Responsive design",
       "description": "Develop a good Frontend design for mobile, tablet, desktop and all screen devices",
       "icon": "/services/service-rwd.svg"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Best Performance",
       "description": "Develop a good Performance website and web application for more better experience",
       "icon": "/services/service-performance.svg"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Progressive Web Apps",
       "description": "Develop a Progressive web apps, create website and website with native apps experience",
       "icon": "/services/service-pwa.svg"
+    }, {
+      "id": 6,
+      "name": "Ui Ux design",
+      "description": "Develop a good user interface and user experience, with a beautiful and comfortable appearance",
+      "icon": "/services/service-uiux.svg"
     }
   ],
   "skills": [
@@ -95,13 +91,13 @@
     },
     {
       "id": 5,
-      "name": "Bootstrap",
-      "icon": "/skills/skill-bootstrap.svg"
+      "name": "Express",
+      "icon": "/skills/simple-icons--express (1).svg"
     },
     {
       "id": 6,
-      "name": "Webpack 5",
-      "icon": "/skills/skill-webpack.svg"
+      "name": "Mongodb",
+      "icon": "/skills/skill-mongodb-svgrepo-com.svg"
     },
     {
       "id": 7,
@@ -130,8 +126,8 @@
     },
     {
       "id": 12,
-      "name": "PWA",
-      "icon": "/skills/skill-pwa.svg"
+      "name": "tRPC",
+      "icon": "/skills/logos--trpc.svg" 
     }
   ],
   "project": {
@@ -245,68 +241,45 @@
     "contents": [
       {
         "id": 1,
-        "icon": "fab fa-whatsapp",
-        "name": "WhatsApp",
-        "username": "+62 823 8838 6923",
+        "icon": "fab fa-github",
+        "name": "Github",
+        "username": "jugunu-21",
         "category": "Social Media",
-        "url": "https://wa.me/+6282388386923"
+        "url": "https://github.com/jugunu-21"
       },
       {
         "id": 2,
-        "icon": "fab fa-instagram",
-        "name": "Instagram",
-        "username": "@wintantawi",
-        "category": "Social Media",
-        "url": "https://instagram.com/wintantawi"
-      },
-      {
-        "id": 3,
-        "icon": "fab fa-twitter",
-        "name": "Twitter",
-        "username": "@wintantawi",
-        "category": "Social Media",
-        "url": "https://twitter.com/wintantawi"
-      },
-      {
-        "id": 4,
-        "icon": "fab fa-facebook-f",
-        "name": "Facebook",
-        "username": "Jugunu Singh",
-        "category": "Social Media",
-        "url": "https://facebook.com/edwintantawi.5"
-      },
-      {
-        "id": 5,
         "icon": "fab fa-linkedin-in",
         "name": "Linkedin",
         "username": "Jugunu Singh",
         "category": "Social Media",
-        "url": "https://www.linkedin.com/in/edwin-tantawi-909138193"
+        "url": "https://www.linkedin.com/in/jugunu-singh-48732b258"
       },
       {
-        "id": 6,
-        "icon": "fab fa-github",
-        "name": "Github",
-        "username": "edwintantawi",
-        "category": "Social Media",
-        "url": "https://github.com/edwintantawi"
-      },
-      {
-        "id": 7,
-        "icon": "far fa-envelope",
+        "id": 3,
+        "icon": "fab fa-envelope",
         "name": "Gmail",
-        "username": "edwintantawi@gmail.com",
+        "username": "aaruhijugunu@gmail.com",
         "category": "Email",
-        "url": "mailto:edwintantawi@gmail.com"
+        "url": "mailto:aaruhijugunu@gmail.com"
       },
       {
-        "id": 8,
-        "icon": "far fa-compass",
-        "name": "Location",
-        "username": "Medan, Indonesia",
-        "category": "location",
-        "url": "https://www.google.com/maps/place/Medan,+Medan+City,+North+Sumatra/@3.6422838,98.5994534,12z/data=!3m1!4b1!4m5!3m4!1s0x303131cc1c3eb2fd:0x23d431c8a6908262!8m2!3d3.5951956!4d98.6722227"
+        "id": 4,
+        "icon": "fab fa-whatsapp",
+        "name": "WhatsApp",
+        "username": "+91 6306441401",
+        "category": "Social Media",
+        "url": "https://wa.me/+916306441401"
+      },
+      {
+        "id": 5,
+        "icon": "fab fa-instagram",
+        "name": "Instagram",
+        "username": "@aaruhijugunu",
+        "category": "Social Media",
+        "url": "https://www.instagram.com/aaruhijugunu/"
       }
+
     ]
   },
   "about": {
@@ -316,22 +289,22 @@
       {
         "id": 1,
         "name": "My History",
-        "description": "Hi, hello, introduce my name is Jugunu Singh, I come from Indonesia, precisely in Deli Serdang district, North Sumatra. Now I am a student at Universitas Mikroskil majoring in Informatics Engineering located in the city of Medan, North Sumatra, Indonesia."
+        "description": "Hi, hello, introduce my name is Jugunu Singh, I come from India, precisely in Kushinagar, Uttar Pradesh. I was a B.Tech student in the Information Technology (IT) branch at Hemwati Nandan Bahuguna Garhwal University, School of Engineering. The university is located in Srinagar, Garhwal district, Uttarakhand, India."
       },
       {
         "id": 2,
         "name": "What am i Doing",
-        "description": "Now I'm focusing on college, and deepening web development, especially Frontend web development, now I'm keeping up with the latest trends in technology and continually learning and applying new concepts. I am also actively building my portfolio by building personal projects."
+        "description":"I'm currently building a website that allows users to discover and purchase different outfits from various online retailers. This platform aims to simplify the process of finding complete outfits by providing recommendations based on user preferences. It will offer a convenient way for busy individuals to explore outfit options, including clothing and accessories that complement each other, and make purchases through affiliate links."
       },
       {
         "id": 3,
         "name": "What Next",
-        "description": "My goal now is to master Front-End and Back-End technology. So that I can build a solution to an existing problem easily. Even though it is not easy and it takes a long time, I believe I can achieve it if I practice and learn continuously."
+        "description": "My next plan is to further strengthen my skills in web development and explore emerging technologies. I wants to secure a job in the web development field to continue learning and growing through practical experience."
       },
       {
         "id": 4,
         "name": "Dreams and Wishes",
-        "description": "I hope, I want to build a start-up company to advance the technology industry in my country, Indonesia, and be an inspiration to others to become a good mentor to guide others to create a better future."
+         "description": "I aspire to become a highly skilled web developer, staying up-to-date with emerging technologies. I envision a future where I am self-sufficient, productive, and well-mannered. Through my work, I hope to contribute positively to the tech industry and inspire others. I also plan to expand the functionality of my website, incorporating more features to address the challenges of outfit pairing and styling."
       }
     ]
   },
@@ -341,7 +314,7 @@
     "contents": [
       {
         "id": 2,
-        "title": "Courses I Completed",
+        "title": "Websites I Created",
         "contents": [
           {
             "id": 5,
