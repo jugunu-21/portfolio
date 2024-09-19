@@ -136,103 +136,32 @@
     "contents": [
       {
         "id": 1,
-        "top": false,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fcookingbox.png?alt=media",
-        "name": "CookingBox",
-        "stack": "HTML, CSS, PWA",
+        "top": true,
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/urstyle.png?alt=media&token=cea70699-d99a-4fb3-98ed-060e3eb2b9aa",
+        "name": "Urtsyle",
+        "stack": "Next JS, Tailwindcss,tRPC,Shadcn, Firebase",
         "category": "Personal Project",
-        "url": "https://cookingboxs.netlify.app"
+        "url": "https://urtsyle.vercel.app/"
       },
       {
         "id": 2,
-        "top": false,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fnetflix-clone.png?alt=media",
-        "name": "Netflix Clone",
-        "stack": "React JS, CSS, TMDB API",
+        "top": true,
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%20(91).png?alt=media&token=22db919a-c759-4c94-9ba7-2c8028eb6ada",
+        "name": "Keybolt",
+        "stack": "Next JS, Tailwindcss,",
         "category": "Personal Project",
-        "url": "https://clone-netflix-web.netlify.app/"
+        "url": "https://keybolt.vercel.app/"
       },
       {
         "id": 3,
-        "top": false,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fwhatsapp-clone.png?alt=media",
-        "name": "Whatsapp Clone",
-        "stack": "React JS, CSS, Firebase",
-        "category": "Personal Project",
-        "url": "https://clone-whatsapp-web.netlify.app/"
-      },
-      {
-        "id": 4,
-        "top": false,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fweneeddev.png?alt=media",
-        "name": "WeNeedDev",
-        "stack": "HTML, CSS, Bootstrap 5",
-        "category": "Personal Project",
-        "url": "https://weneeddev.netlify.app/"
-      },
-      {
-        "id": 5,
-        "top": false,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fpinterest-clone.png?alt=media",
-        "name": "Pinterest Clone",
-        "stack": "React JS, CSS, Unsplash API",
-        "category": "Personal Project",
-        "url": "https://clone-pinterest-web.netlify.app/"
-      },
-      {
-        "id": 6,
-        "top": false,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fgoogle-clone.png?alt=media",
-        "name": "Google Clone",
-        "stack": "React JS, CSS, Google API",
-        "category": "Personal Project",
-        "url": "https://clone-google-web.netlify.app/"
-      },
-      {
-        "id": 7,
-        "top": false,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Ftodonesia.png?alt=media",
-        "name": "Todonesia",
-        "stack": "React JS, Firebase, StyledComponent",
-        "category": "Personal Project",
-        "url": "https://todonesia.netlify.app/"
-      },
-      {
-        "id": 9,
         "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fairbnb-clone.png?alt=media",
-        "name": "Airbnb Clone",
-        "stack": "Next JS, Tailwindcss",
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%20(90).png?alt=media&token=e6ecac61-1262-4119-af12-d36f9bd56b1d",
+        "name": "Portfolio-Website",
+        "stack": "Next JS, CSS, Firebase",
         "category": "Personal Project",
-        "url": "https://airbnb-web-clone.vercel.app/"
-      },
-      {
-        "id": 10,
-        "top": false,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fdevsantara.png?alt=media",
-        "name": "Devsantara",
-        "stack": "Next JS, Tailwindcss, Markdown",
-        "category": "Personal Project",
-        "url": "https://devsantara.netlify.app/"
-      },
-      {
-        "id": 11,
-        "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Ffoodsery.png?alt=media",
-        "name": "Foodsery",
-        "stack": "Next JS, Tailwindcss, Spoonacular API",
-        "category": "Personal Project",
-        "url": "https://foodsery.vercel.app/"
-      },
-      {
-        "id": 12,
-        "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fliquiz.png?alt=media",
-        "name": "LiQuiz",
-        "stack": "Next JS, Tailwindcss, OpenAI API",
-        "category": "Personal Project",
-        "url": "https://github.com/edwintantawi/liquiz"
+        "url": "https://jugunu-portfolio.vercel.app/"
       }
+     
     ]
   },
   "contact": {

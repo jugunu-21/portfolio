@@ -7,7 +7,7 @@ const AppSignature = () => (
         warm greetings from Jugunu Singh
       </p>
       <h3 className="font-signature text-xl md:text-3xl inline-block py-1 mt-3 md:mt-6 border-b border-primary">
-        EdwinTantawi
+        JugunuSingh
       </h3>
     </div>
   </AppSection>
