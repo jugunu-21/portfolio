@@ -3,7 +3,6 @@ import AppHeader from '../components/organisms/AppHeader';
 import AppSection from '../components/molecules/AppSection';
 import AppTimeline from '../components/atomics/AppTimeline';
 import AppShell from '../components/templates/AppShell';
-
 const Resume = () => (
   <AppShell
     title={`Jugunu Singh | ${USER.resume.title}`}

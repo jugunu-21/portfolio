@@ -148,9 +148,9 @@
         "top": true,
         "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%20(91).png?alt=media&token=22db919a-c759-4c94-9ba7-2c8028eb6ada",
         "name": "Keybolt",
-        "stack": "Next JS, Tailwindcss,",
+        "ˇstack": "Next JS, Tailwindcss,",
         "category": "Personal Project",
-        "url": "https://keybolt.vercel.app/"
+        "url": "https://keybolt.vercel.app/"  
       },
       {
         "id": 3,
@@ -243,7 +243,7 @@
     "contents": [
       {
         "id": 2,
-        "title": "Websites I Created",
+        "title": "Courses I Completd",
         "contents": [
           {
             "id": 5,
@@ -363,38 +363,39 @@
         "contents": [
           {
             "id": 1,
-            "timestamp": "2020 - Present",
-            "name": "Mikroskil University",
-            "info": "College",
-            "description": "Studying at Mikroskil University, Indonesia by majoring in Informatics Engineering",
-            "url": "https://mikroskil.ac.id/"
+            "timestamp": "2020 - 2024",
+            "name": "Hemwati Nandan Bahuguna Garhwal University",
+            "info": "Bachelor of Technology (B.Tech)",
+            "description": "Studied Information Technology at Hemwati Nandan Bahuguna Garhwal University, Uttarakhand.",
+            "url": "https://hnbgu.ac.in/"
           },
           {
             "id": 2,
-            "timestamp": "2017 - 2020",
-            "name": "SMK Methodist Tamora",
-            "info": "Vocational High School",
-            "description": "Demanding knowledge at the Methodist Junior high school Vocational School, Indonesia. By majoring in Computer Network Engineering",
-            "url": "https://web.facebook.com/methodist.tamora?_rdc=1&_rdr"
+            "timestamp": "2017 - 2019",
+            "name": "Academic Global High School",
+            "info": "Senior Secondary School (11th and 12th Grade)",
+            "description": "Completed 11th and 12th grades at Academic Global High School, Gorakhpur, Kushmi Jungle.",
+            "url": "https://www.academicglobalhighschool.com" 
           },
           {
             "id": 3,
-            "timestamp": "2014 - 2017",
-            "name": "SMP Mehodist Tamora",
-            "info": "Junior high school",
-            "description": "Demanding knowledge at the Methodist Tamora Junior high school, Indonesia.",
-            "url": "https://web.facebook.com/methodist.tamora?_rdc=1&_rdr"
+            "timestamp": "2015 - 2017",
+            "name": "Central Public School",
+            "info": "Secondary School (9th and 10th Grade)",
+            "description": "Attended Central Public School, Pipraich, Gorakhpur for 9th and 10th grades.",
+            "url": "https://www.centralpublicschool.com" 
           },
           {
             "id": 4,
-            "timestamp": "2008 - 2014",
-            "name": "SD Mehodist Tamora",
-            "info": "Elementary school",
-            "description": "Demanding knowledge at the Methodist Tamora Elementary school, Indonesia.",
-            "url": "https://web.facebook.com/methodist.tamora?_rdc=1&_rdr"
+            "timestamp": "2010 - 2015",
+            "name": "Christuraja School",
+            "info": "Elementary School (till 8th)",
+            "description": "Completed primary education in Chrituraja School,pipraiich,gorakhpur.",
+            "url": "#" 
           }
         ]
       }
+      
     ]
   }
 }

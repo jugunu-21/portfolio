@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
 import AppSection from '../molecules/AppSection';
+import AppButton from '../atomics/AppButton';
 
 const AppHeader = ({ title, description }) => {
   const splitTitleCharColor = () => {
@@ -21,7 +22,10 @@ const AppHeader = ({ title, description }) => {
         <p className="text-xs lg:text-sm text-gray max-w-sm tracking-widest mt-3 lg:mt-5 mx-auto">
           {description}
         </p>
+        {title==="Resume"&&  <AppButton title="Resume" href="_Jugunu_Resume-3.pdf" color="primary" />}
+       
       </div>
+      
     </AppSection>
   );
 };
