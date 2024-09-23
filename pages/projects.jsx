@@ -3,6 +3,7 @@ import AppHeader from '../components/organisms/AppHeader';
 import AppShell from '../components/templates/AppShell';
 import AppSection from '../components/molecules/AppSection';
 import AppProject from '../components/atomics/AppProject';
+
 const Project = () => (
     <AppShell
       title={`Jugunu Singh | ${USER.project.title}`}
