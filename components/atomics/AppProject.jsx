@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import AppButton from './AppButton';
-const AppProject = ({ project }) => (
+
+const AppProject = ({ project })=> (
   <div className="bg-white border border-light-gray rounded-lg px-4 pt-6 text-center overflow-hidden">
     <div className="mb-3">
       <a href={project.url} target="_blank" rel="noopener noreferrer">
@@ -21,14 +22,11 @@ const AppProject = ({ project }) => (
         placeholder="blur"
         blurDataURL={project.image}
         className="transition duration-300 transform translate-y-5 hover:translate-y-0 "
-      />
-    </div>
-
-    <div className='p-4 text-center justiy-center '>
+      />  </div>
+    <div className='p-4 text-center justiy-center'>
       <div className='flex text-center justify-center'>
         <div className='text-sm  items-center justify-center text-center py-auto'>
           {project.name}
-
         </div>
         <AppButton className="border-2 border-red-300  " title="Live" href={project.url} />
       </div>
@@ -36,7 +34,6 @@ const AppProject = ({ project }) => (
         <div className='flex '><div className='text-sm'>Doc Track</div><AppButton title="Tracker" href="https://docs.google.com/document/d/1wMP4RwivDJPyXU9inwbKTFNp9SsKX8zw75BW7EV1cPE/edit#heading=h.9c16xpraei2c" /></div>
       }
     </div>
-
   </div>
 );
 export default AppProject; 
