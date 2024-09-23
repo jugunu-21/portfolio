@@ -2,7 +2,7 @@ import USER from '../../data/user.json';
 
 const AppSide = () => (
   <div className="hidden md:flex justify-between fixed bottom-0 left-0 right-0 z-10 w-full px-3 md:px-10 2xl:px-20 max-w-[1905px] mx-auto">
-    <aside className="flex flex-col items-center">
+    <aside className="flex flex-col justify-end items-center">
       <ul className="flex flex-col items-center w-6 space-y-4">
         {USER.contact.contents
           .filter((filteredItem) => filteredItem.category === 'Social Media')

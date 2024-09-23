@@ -1,5 +1,5 @@
 const AppTimeline = ({ item, children }) => (
-  <div className="py-7 px-5 border-l border-primary">
+  <div className="py-7 px-5 ">
     <div className="relative">
       <span className="text-xs inline-block py-[3px] px-5 rounded-full border border-primary">
         {item.timestamp}

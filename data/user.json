@@ -186,28 +186,13 @@
       },
       {
         "id": 3,
-        "icon": "fab fa-envelope",
+        "icon": "fa fa-envelope",
         "name": "Gmail",
         "username": "aaruhijugunu@gmail.com",
         "category": "Email",
         "url": "mailto:aaruhijugunu@gmail.com"
-      },
-      {
-        "id": 4,
-        "icon": "fab fa-whatsapp",
-        "name": "WhatsApp",
-        "username": "+91 6306441401",
-        "category": "Social Media",
-        "url": "https://wa.me/+916306441401"
-      },
-      {
-        "id": 5,
-        "icon": "fab fa-instagram",
-        "name": "Instagram",
-        "username": "@aaruhijugunu",
-        "category": "Social Media",
-        "url": "https://www.instagram.com/aaruhijugunu/"
       }
+     
 
     ]
   },
