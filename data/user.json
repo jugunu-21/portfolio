@@ -70,20 +70,27 @@
   ],
   "skills": [
     {
-      "id": 1,
-      "name": "HTML 5",
-      "icon": "/skills/skill-html5.svg"
+      "id": 7,
+      "name": "React JS",
+      "icon": "/skills/skill-reactjs.svg"
     },
     {
-      "id": 2,
-      "name": "CSS 3",
-      "icon": "/skills/skill-css3.svg"
+      "id": 8,
+      "name": "Next JS",
+      "icon": "/skills/skill-nextjs.svg"
     },
+      
     {
       "id": 3,
       "name": "Javascript",
       "icon": "/skills/skill-javascript.svg"
     },
+    {
+      "id": 1,
+      "name": "Typescript",
+      "icon": "/skills/Typescript Vector Icon.svg"
+    },
+ 
     {
       "id": 4,
       "name": "TailwindCss",
@@ -100,25 +107,11 @@
       "icon": "/skills/skill-mongodb-svgrepo-com.svg"
     },
     {
-      "id": 7,
-      "name": "React JS",
-      "icon": "/skills/skill-reactjs.svg"
-    },
-    {
-      "id": 8,
-      "name": "Next JS",
-      "icon": "/skills/skill-nextjs.svg"
-    },
-    {
       "id": 9,
       "name": "Firebase",
       "icon": "/skills/skill-firebase.svg"
     },
-    {
-      "id": 10,
-      "name": "Git",
-      "icon": "/skills/skill-git.svg"
-    },
+   
     {
       "id": 11,
       "name": "Github",
@@ -138,7 +131,7 @@
         "id": 1,
         "top": true,
         "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/urstyle.png?alt=media&token=cea70699-d99a-4fb3-98ed-060e3eb2b9aa",
-        "name": "Urtsyle",
+        "name": "Urstyle",
         "stack": "Next JS, Tailwindcss,tRPC,Shadcn, Firebase",
         "category": "Personal Project",
         "url": "https://urtsyle.vercel.app/"
@@ -232,113 +225,47 @@
         "contents": [
           {
             "id": 5,
-            "timestamp": "1 Oct 2021 - 14 Dec 2021",
-            "name": "Insentif Program Referral AWS",
-            "info": "Dicoding Academy",
-            "description": "AWS Referral Program Incentives 90 days of learning opportunities at Dicoding, and complete the following classes:",
-            "url": "https://aws.dicoding.com/",
-            "list": [
-              {
-                "id": 1,
-                "name": "Belajar Fundamental Aplikasi Back-End",
-                "level": "Intermediate",
-                "url": "https://www.dicoding.com/certificates/72ZDEJ0LVPYW"
-              },
-              {
-                "id": 2,
-                "name": "Menjadi Back-End Developer Expert",
-                "level": "Expert",
-                "url": "https://www.dicoding.com/certificates/JLX13RRQGP72"
-              }
-            ]
+            "timestamp": "5 July 2021 - 25 July 2024",
+            "name": "Hitesh Choudhary | MongoDB",
+            "info": "Chai aur Code",
+            "description": "Proficient in MongoDB, including data modeling, aggregation pipelines, and implementing efficient queries for backend applications:",
+            "url": "https://youtube.com/playlist?list=PLzAGFfNxKFualSih9sm4FCRy9L7o_rVY8&si=jmXazAmJULBCpC59"
           },
           {
             "id": 4,
-            "timestamp": "11 May 2021 - 4 Aug 2021",
-            "name": "IDCamp 2021",
-            "info": "Back-end Learning Path",
-            "description": "Scholarship to study programming at Dicoding Academy from Indosat Ooredoo, and complete the following classes:",
-            "url": "https://idcamp.indosatooredoo.com/",
-            "list": [
-              {
-                "id": 1,
-                "name": "Belajar Dasar Pemrograman JavaScript",
-                "level": "Beginner",
-                "url": "https://www.dicoding.com/certificates/RVZK4QLMMPD5"
-              },
-              {
-                "id": 2,
-                "name": "Belajar Membuat Aplikasi Back-End untuk Pemula",
-                "level": "Beginner",
-                "url": "https://www.dicoding.com/certificates/MEPJ504OLP3V"
-              }
-            ]
+            "timestamp": "8 May 2024 - 24 May 2024",
+            "name": "Complete backend developer course part 2",
+            "info": "Chai aur Code",
+            "description": "Studied access and refresh tokens, user update controllers, and subscription schemas in backend development:",
+            "url": "https://youtu.be/8k-kK3tsJFY?si=Dp3PqkZmkhr2sf22"
+           
           },
           {
             "id": 3,
-            "timestamp": "28 Apr 2021 - 10 May 2021",
-            "name": "Baparekraf Developer Day 2021",
-            "info": "Front-End Learning Path",
-            "description": "Scholarship to study programming at Dicoding Academy from Kemenparekraf Indonesia, and complete the following classes:",
-            "url": "https://bdd.kemenparekraf.go.id/",
-            "list": [
-              {
-                "id": 1,
-                "name": "Menjadi Front-End Web Developer Expert",
-                "level": "Expert",
-                "url": "https://www.dicoding.com/certificates/81P21DGOJZOY"
-              }
-            ]
+            "timestamp": "1 Apr 2024 - 13 Apr 2024",
+            "name": "Complete Backend Developer course | Part 1",
+            "info": "Chai aur Code",
+            "description": "Completed the JavaScript Backend Roadmap, covering deployment, MERN integration, data modeling, API handling, and project setup:",
+            "url": "https://youtu.be/7fjOw8ApZ1I?si=rhX2zVScfcVyg5DD/"
+           
           },
           {
             "id": 2,
-            "timestamp": " 15 Mar 2021 - 01 Jul 2021",
-            "name": "Cloud and Back-End Developer Scholarship Program",
-            "info": "Cloud Computing AWS",
-            "description": "Scholarship to study Cloud and Backend at Dicoding Academy from AWS, and complete the following classes:",
-            "url": "https://aws.dicoding.com/",
-            "list": [
-              {
-                "id": 1,
-                "name": "Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)",
-                "level": "Beginner",
-                "url": "https://www.dicoding.com/certificates/0LZ0DY5RRX65"
-              },
-              {
-                "id": 2,
-                "name": "Architecting on AWS (Membangun Arsitektur Cloud di AWS)",
-                "level": "Intermediate",
-                "url": "https://www.dicoding.com/certificates/N9ZODGK66PG5"
-              }
-            ]
+            "timestamp": " 10 Jan 2024 - 29 feb 2021",
+            "name": "Next.js Tutorials for Beginners in Hindi",
+            "info": "CodeWithHarry ",
+            "description": "Completed the Complete Next.js Course in Hindi, mastering server-side rendering, file-based routing, MongoDB integration, and application deployment:",
+            "url": "https://youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG&si=SvIWk8LEk_SQxGw3"
+           
           },
           {
             "id": 1,
-            "timestamp": "20 Jul 2020 - 09 Aug 2020",
-            "name": "Baparekraf Developer Day 2020",
+            "timestamp": "20 Nov 2019 - 20 Dec 2019",
+            "name": "Namaste JavaScript 🙏 Course ",
             "info": "Front-end Learning Path",
-            "description": "Scholarship to study programming at Dicoding Academy from Kemenparekraf Indonesia, and complete the following classes:",
-            "url": "https://bdd.kemenparekraf.go.id/",
-            "list": [
-              {
-                "id": 1,
-                "name": "Belajar Dasar Pemrograman Web",
-                "level": "Beginner",
-                "url": "https://www.dicoding.com/certificates/1RXY46WJ9PVM"
-              },
-              {
-                "id": 2,
-                "name": "Belajar Fundamental Front-End Web Development",
-                "level": "Intermediate",
-                "url": "https://www.dicoding.com/certificates/JMZVM9OJ3ZN9"
-              },
-              {
-                "id": 3,
-                "name": "Membangun Progressive Web Apps",
-                "level": "Expert",
-                "url": "https://www.dicoding.com/certificates/JMZVM9OJNZN9"
-              }
-            ]
+            "description": "Completed the Namaste JavaScript course, gaining in-depth knowledge of JavaScript fundamentals, internals, and interview preparation for web development:",
+            "url": "https://youtu.be/pN6jk0uUrD8?si=BfsIuRX0zOYQvI12"
+            
           }
         ]
       },
@@ -369,15 +296,8 @@
             "info": "Secondary School (9th and 10th Grade)",
             "description": "Attended Central Public School, Pipraich, Gorakhpur for 9th and 10th grades.",
             "url": "https://www.centralpublicschool.com" 
-          },
-          {
-            "id": 4,
-            "timestamp": "2010 - 2015",
-            "name": "Christuraja School",
-            "info": "Elementary School (till 8th)",
-            "description": "Completed primary education in Chrituraja School,pipraiich,gorakhpur.",
-            "url": "#" 
           }
+          
         ]
       }
       
