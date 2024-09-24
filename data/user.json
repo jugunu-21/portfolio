@@ -1,5 +1,5 @@
 {
-  "name": "Jugunu Singh",
+  "name": "Jugunu singh",
   "status": "Full Stack Web Developer",
   "description": "I am passionate and interested in the ever-growing field of Web development",
   "navigations": [
@@ -61,11 +61,6 @@
       "name": "Progressive Web Apps",
       "description": "Develop a Progressive web apps, create website and website with native apps experience",
       "icon": "/services/service-pwa.svg"
-    }, {
-      "id": 6,
-      "name": "Ui Ux design",
-      "description": "Develop a good user interface and user experience, with a beautiful and comfortable appearance",
-      "icon": "/services/service-uiux.svg"
     }
   ],
   "skills": [
@@ -121,11 +116,21 @@
       "id": 12,
       "name": "tRPC",
       "icon": "/skills/logos--trpc.svg" 
+    },
+    {
+      "id": 13,
+      "name": "HTML",
+      "icon": "/skills/skill-html5.svg" 
+    },
+    {
+      "id": 14,
+      "name": "CSS",
+      "icon": "/skills/skill-css3.svg" 
     }
   ],
   "project": {
     "title": "Project",
-    "desctiption": "some of the projects that I've worked on to completion with some of the technologies",
+    "desctiption": "Some of the projects that I've worked on to completion with some of the technologies",
     "contents": [
       {
         "id": 1,
@@ -217,7 +222,7 @@
   },
   "resume": {
     "title": "Resume",
-    "description": "explore my experiences, rewards, and education, as well as my activeness",
+    "description": "Explore my experiences, rewards, and education, as well as my activeness",
     "contents": [
       {
         "id": 2,

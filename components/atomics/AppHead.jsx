@@ -7,7 +7,7 @@ const AppHead = ({ title, description, keyword, image }) => (
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="keywords"
-      content={`Jugunu Singh, Edwin, Tantawi, edwintantawi, edwintantawi, wintantawi, web developer, portfolio, frontend developer, web developer, frontend enginer, indonesia, Jugunu Singh, indonesia, medan, tantawi, Jugunu Singh portfolio, software enginer, ${keyword}`}
+      content={`Jugunu Singh, web developer, portfolio, frontend developer, web developer, frontend enginer, Jugunu Singh, medan, Jugunu Singh portfolio, software enginer, ${keyword}`}
     />
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
