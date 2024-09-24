@@ -9,15 +9,12 @@
       "url": "/"
     },
     {
-      "id": 2,
-      "name": "Resume",
-      "url": "/resume"
-    },
-    {
       "id": 3,
       "name": "Projects",
       "url": "/#project-component"
     },
+    
+    
     {
       "id": 4,
       "name": "About",
@@ -27,6 +24,11 @@
       "id": 5,
       "name": "Contact",
       "url": "/contact"
+    },
+    {
+      "id": 2,
+      "name": "Resume",
+      "url": "/resume"
     }
   ],
   "services": [
@@ -150,9 +152,9 @@
         "name": "Urstyle backend",
         "stack": [
           "Mongodb",
-          "Tailwindcss",
           
-          "Node","Express","React"
+          
+          "Node","Express"
         
        
         ],
@@ -226,7 +228,7 @@
       {
         "id": 1,
         "name": "My History",
-        "description": "Hi, my name is Jugunu Singh, and I come from Kushinagar, Uttar Pradesh, India. I studied B.Tech in Information Technology (IT) at Hemwati Nandan Bahuguna Garhwal University. I began my technology journey a few months ago through YouTube, where I started learning web development while simultaneously building my own website to enhance my skills."
+        "description": "Hi, my name is Jugunu Singh, and I come from Kushinagar, Uttar Pradesh, India. I studied B.Tech in Information Technology (IT) at Hemwati Nandan Bahuguna Garhwal University. I began my web journey a few months ago through YouTube, where I started learning web development while simultaneously building my own website to enhance my skills."
       },
       {
         "id": 2,
@@ -236,7 +238,7 @@
       {
         "id": 3,
         "name": "Future Plans",
-        "description": "My next objective is to refine my web development skills and explore new technologies. I aim to contribute to an innovative company where I can continue to learn, grow, and make a significant impact through hands-on experience."
+        "description": "My next objective is to refine my web development skills and explore new technologies. I aim to contribute to an innovative company where I will continue to learn, grow, and make a significant impact through hands-on experience."
       },
       {
         "id": 4,
@@ -251,7 +253,7 @@
     "contents": [
       {
         "id": 2,
-        "title": "Courses I Completd",
+        "title": "Courses I Completed",
         "contents": [
           {
             "id": 5,
