@@ -42,8 +42,8 @@ const AppProject = ({ project,id }) => (
       <div className='flex  justify-end items-center py-6 space-x-1'>
        
         <hr className='border-b-2 w-16 mt-4'/>
-        <div className=" flex justify-between space-x-6">
-        <Link  href={project.url} className='flex transition duration-300 transform translate-y-2 hover:translate-y-0 hover:text-primary' > <div className='text-sm font-semibold'>Live Project</div><Image  height={18} width={18} src="External Link Icon.svg"></Image></Link>
+        <div className=" flex justify-between space-x-4">
+        <Link  href={project.url} className=' flex transition duration-300 transform translate-y-2 hover:translate-y-0 hover:text-primary' > <div className='text-sm font-semibold px-1'>Live Project</div><Image  height={18} width={18} src="External Link Icon.svg"></Image></Link>
         <Link className="transition duration-300 transform translate-y-2 hover:translate-y-0 " href={project.giturl} > <Image   height={20} width={20} src="skills/skill-github.svg"></Image></Link>
         </div></div>
       {project.name === "Urstyle" &&

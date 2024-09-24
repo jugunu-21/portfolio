@@ -1,13 +1,13 @@
 import PropTypes from 'prop-types';
 import AppDecoration from '../atomics/AppDecoration';
 
-const AppSection = ({ title, children, decoration, noSeparator }) => {
+const AppSection = ({ title, children, decoration, noSeparator}) => {
   const splitTitleColor = () => {
     const titleBase = title.split(' ');
     const titleStart = titleBase.slice(0, -1).join(' ');
     const titleEnd = titleBase.pop();
     return (
-      <h2 className="text-xl lg:text-2xl font-bold mb-0 text-center">
+      <h2  className="text-xl lg:text-2xl font-bold mb-0 text-center">
         {titleStart}
         <span className="text-primary"> {titleEnd}</span>
       </h2>

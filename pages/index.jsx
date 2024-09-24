@@ -6,7 +6,7 @@ import AppProject from '../components/atomics/AppProject';
 import AppShell from '../components/templates/AppShell';
 
 const Home = () => (
-  <div>
+  <div className="scroll-smooth">
     <AppShell hero>
       <AppSection title="What can I do">
         <div className="grid grid-cols-1 gap-3 md:grid-cols-2 xl:grid-cols-3 lg:gap-4">
@@ -51,22 +51,22 @@ const Home = () => (
           ))}
         </div>
       </AppSection>
-      <AppSection title="Projects's I have Completed">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-6">
+      <AppSection  title="Projects's I have Completed">
+        <div  className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-6">
           {USER.project.contents
             .filter((filteredItem) => filteredItem.top)
             .map((item) => (
-              <AppProject key={item.id} project={item} />
+              <AppProject id="project-component"  key={item.id} project={item} />
             ))}
         </div>
-        <div className="text-center py-7">
+        {/* <div className="text-center py-7">
           <Link
             href="/projects"
             className="text-xs transition duration-300 md:text-sm text-gray hover:text-primary"
           >
             Show all my projects <i className="fas fa-chevron-right" />
           </Link>
-        </div>
+        </div> */}
       </AppSection>
     </AppShell>
   </div>
