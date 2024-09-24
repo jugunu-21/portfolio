@@ -194,32 +194,34 @@
 
     ]
   },
+ 
   "about": {
     "title": "About",
-    "description": "Get acquainted further about me, story and biography of my life",
+    "description": "Learn more about my journey, experiences, and aspirations.",
     "contents": [
       {
         "id": 1,
         "name": "My History",
-        "description": "Hi, hello, introduce my name is Jugunu Singh, I come from India, precisely in Kushinagar, Uttar Pradesh. I was a B.Tech student in the Information Technology (IT) branch at Hemwati Nandan Bahuguna Garhwal University, School of Engineering. The university is located in Srinagar, Garhwal district, Uttarakhand, India."
+        "description": "Hi, my name is Jugunu Singh, and I come from Kushinagar, Uttar Pradesh, India. I studied B.Tech in Information Technology (IT) at Hemwati Nandan Bahuguna Garhwal University. I began my technology journey a few months ago through YouTube, where I started learning web development while simultaneously building my own website to enhance my skills."
       },
       {
         "id": 2,
-        "name": "What am i Doing",
-        "description":"I'm currently building a website that allows users to discover and purchase different outfits from various online retailers. This platform aims to simplify the process of finding complete outfits by providing recommendations based on user preferences. It will offer a convenient way for busy individuals to explore outfit options, including clothing and accessories that complement each other, and make purchases through affiliate links."
+        "name": "Current Endeavors",
+        "description": "I'm developing a platform that enables users to discover and purchase outfits from online retailers like Amazon, Myntra, and Flipkart. This site streamlines the process of finding complete ensembles, assisting busy individuals in exploring options that include complementary clothing and accessories, integrated with affiliate links."
       },
       {
         "id": 3,
-        "name": "What Next",
-        "description": "My next plan is to further strengthen my skills in web development and explore emerging technologies. I wants to secure a job in the web development field to continue learning and growing through practical experience."
+        "name": "Future Plans",
+        "description": "My next objective is to refine my web development skills and explore new technologies. I aim to contribute to an innovative company where I can continue to learn, grow, and make a significant impact through hands-on experience."
       },
       {
         "id": 4,
-        "name": "Dreams and Wishes",
-         "description": "I aspire to become a highly skilled web developer, staying up-to-date with emerging technologies. I envision a future where I am self-sufficient, productive, and well-mannered. Through my work, I hope to contribute positively to the tech industry and inspire others. I also plan to expand the functionality of my website, incorporating more features to address the challenges of outfit pairing and styling."
+        "name": "Aspirations",
+        "description": "I strive to become a highly proficient web developer, keeping pace with the latest trends. I envision being self-sufficient, productive, and professional. Through my work, I hope to make positive contributions to the tech industry and inspire others. Additionally, I plan to enhance my website’s capabilities to tackle challenges in outfit pairing and styling."
       }
     ]
   },
+ 
   "resume": {
     "title": "Resume",
     "description": "Explore my experiences, rewards, and education, as well as my activeness",
