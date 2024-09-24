@@ -197,11 +197,11 @@
   },
   "resume": {
     "title": "Resume",
-    "description": "Explore my experiences, rewards, and education, as well as my activeness",
+    "description": "Know about me in detail ",
     "contents": [
       {
         "id": 2,
-        "title": "Courses I Completed",
+        "title": "How did I Learn Development?",
         "contents": [
           {
             "id": 5,

@@ -11,7 +11,7 @@ const AppCtaSection = () => (
         always open to you, feel free to ask, I will try my best for you. Thank
         you for visiting.
       </p>
-      <AppButton title="Say Hi.." href="/contact" className="bg-primary" />
+      <AppButton title="Lets Connect :)" href="/contact" className="bg-primary" />
     </div>
   </section>
 );
