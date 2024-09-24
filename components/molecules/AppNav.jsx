@@ -55,7 +55,7 @@ const AppNav = () => {
       >
         <Link href="/" className="flex items-center">
           <Image
-            src="/edwintantawi.svg"
+            src="https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/WhatsApp%20Image%202024-09-24%20at%2014.04.13.jpeg?alt=media&token=2354f327-79dd-4af2-a905-573aa9023509"
             alt="Jugunu Singh"
             width={40}
             height={40}
