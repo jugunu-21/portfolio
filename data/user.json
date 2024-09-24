@@ -34,13 +34,13 @@
   "services": [
     {
       "id": 1,
-      "name": "Website dev",
+      "name": "Frontend dev",
       "description": "Developing a website appearance based on design into a website that can be use. With good performance",
       "icon": "/services/service-website.svg"
     },
     {
       "id": 2,
-      "name": "WebApps dev",
+      "name": "Backend dev",
       "description": "Developing a very well-functioning web applications, various features and performance",
       "icon": "/services/service-webapps.svg"
     },
@@ -55,75 +55,23 @@
       "name": "Best Performance",
       "description": "Develop a good Performance website and web application for more better experience",
       "icon": "/services/service-performance.svg"
-    },
-    {
-      "id": 5,
-      "name": "Progressive Web Apps",
-      "description": "Develop a Progressive web apps, create website and website with native apps experience",
-      "icon": "/services/service-pwa.svg"
     }
+    
   ],
-  "skills": [
-    {
-      "id": 7,
-      "name": "React JS",
-      "icon": "/skills/skill-reactjs.svg"
-    },
-    {
-      "id": 8,
-      "name": "Next JS",
-      "icon": "/skills/skill-nextjs.svg"
-    },
-    {
-      "id": 3,
-      "name": "Javascript",
-      "icon": "/skills/skill-javascript.svg"
-    },
-    {
-      "id": 1,
-      "name": "Typescript",
-      "icon": "/skills/Typescript Vector Icon.svg"
-    },
-    {
-      "id": 4,
-      "name": "TailwindCss",
-      "icon": "/skills/skill-tailwindcss.svg"
-    },
-    {
-      "id": 5,
-      "name": "Express",
-      "icon": "/skills/simple-icons--express (1).svg"
-    },
-    {
-      "id": 6,
-      "name": "Mongodb",
-      "icon": "/skills/skill-mongodb-svgrepo-com.svg"
-    },
-    {
-      "id": 9,
-      "name": "Firebase",
-      "icon": "/skills/skill-firebase.svg"
-    },
-    {
-      "id": 11,
-      "name": "Github",
-      "icon": "/skills/skill-github.svg"
-    },
-    {
-      "id": 12,
-      "name": "tRPC",
-      "icon": "/skills/logos--trpc.svg"
-    },
-    {
-      "id": 13,
-      "name": "HTML",
-      "icon": "/skills/skill-html5.svg"
-    },
-    {
-      "id": 14,
-      "name": "CSS",
-      "icon": "/skills/skill-css3.svg"
-    }
+ "skills" : [
+    { "name": "Next JS", "icon": "/skills/skill-nextjs.svg" },
+    { "name": "React JS", "icon": "/skills/skill-reactjs.svg" },
+    { "name": "Javascript", "icon": "/skills/skill-javascript.svg" },
+    { "name": "Typescript", "icon": "/skills/Typescript Vector Icon.svg" },
+    { "name": "TailwindCss", "icon": "/skills/skill-tailwindcss.svg" },
+    { "name": "HTML", "icon": "/skills/skill-html5.svg" },
+    { "name": "CSS", "icon": "/skills/skill-css3.svg" },
+    { "name": "Express", "icon": "/skills/simple-icons--express (1).svg" },
+    { "name": "Mongodb", "icon": "/skills/skill-mongodb-svgrepo-com.svg" },
+    { "name": "Firebase", "icon": "/skills/skill-firebase.svg" },
+   
+    { "name": "tRPC", "icon": "/skills/logos--trpc.svg" },
+    { "name": "Github", "icon": "/skills/skill-github.svg" }
   ],
   "project": {
     "title": "Project",

@@ -29,6 +29,19 @@ const AppProject = ({ project,id }) => (
   ))}
 </div>
     </div>
+    <div className=''>
+    <div>
+      <div className='flex mt-auto  justify-end items-center py-3 space-x-1'>
+       
+        <hr className='border-b-2 w-16 mt-4'/>
+        <div className=" flex justify-between space-x-4">
+        <Link  href={project.url} target="_blank" className=' flex transition duration-300 transform translate-y-2 hover:translate-y-0 hover:text-primary' > <div className='text-sm font-semibold px-1'>Live Project</div><Image  height={18} width={18} src="External Link Icon.svg"></Image></Link>
+        <Link   target="_blank"  className="transition duration-300 transform translate-y-2 hover:translate-y-0 " href={project.giturl} > <Image   height={20} width={20} src="skills/skill-github.svg"></Image></Link>
+        </div></div>
+      {project.name === "Urstyle" &&
+        <div className='flex '><div className='text-sm'>Doc Track</div><Link target="_blank" href="https://docs.google.com/document/d/1wMP4RwivDJPyXU9inwbKTFNp9SsKX8zw75BW7EV1cPE/edit#heading=h.9c16xpraei2c">Tracker</Link></div>
+      }
+    </div>
     <div className="shadow-xl">
       <Image
         src={project.image}
@@ -39,20 +52,11 @@ const AppProject = ({ project,id }) => (
         quality={10}
         placeholder="blur"
         blurDataURL={project.image}
-        className="transition duration-300 transform translate-y-5 hover:translate-y-0 "
+        className="transition duration-300 transform translate-y-5 hover:translate-y-0 rounded-lg "
       />  </div>
-  
-      <div className='flex  justify-end items-center py-6 space-x-1'>
-       
-        <hr className='border-b-2 w-16 mt-4'/>
-        <div className=" flex justify-between space-x-4">
-        <Link  href={project.url} target="blank" className=' flex transition duration-300 transform translate-y-2 hover:translate-y-0 hover:text-primary' > <div className='text-sm font-semibold px-1'>Live Project</div><Image  height={18} width={18} src="External Link Icon.svg"></Image></Link>
-        <Link   target="blank"  className="transition duration-300 transform translate-y-2 hover:translate-y-0 " href={project.giturl} > <Image   height={20} width={20} src="skills/skill-github.svg"></Image></Link>
-        </div></div>
-      {project.name === "Urstyle" &&
-        <div className='flex '><div className='text-sm'>Doc Track</div><Link  href="https://docs.google.com/document/d/1wMP4RwivDJPyXU9inwbKTFNp9SsKX8zw75BW7EV1cPE/edit#heading=h.9c16xpraei2c">Tracker</Link></div>
-      }
+ 
+    </div>
     </div>
 
 );
-export default AppProject; 
+export default AppProject;

@@ -13,7 +13,7 @@ const Home = () => (
         <div className="grid grid-cols-2 gap-3 lg:grid-cols-3 xl:grid-cols-4">
           {USER.skills.map((item) => (
             <div
-              key={item.id}
+              key={item.name}
               className="flex items-center px-3 py-3 border rounded-lg border-light-gray"
             >
               <Image
@@ -31,7 +31,7 @@ const Home = () => (
         </div>
       </AppSection>
       <AppSection  title="Projects's I have Completed">
-        <div  className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-6">
+        <div  className="grid grid-cols-1 sm:grid-cols-2  gap-x-8 gap-y-14">
           {USER.project.contents
             .filter((filteredItem) => filteredItem.top)
             .map((item) => (
