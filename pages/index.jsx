@@ -6,7 +6,7 @@ import AppProject from '../components/atomics/AppProject';
 import AppShell from '../components/templates/AppShell';
 
 const Home = () => (
-  <div className="scroll-smooth">
+  <div >
     <AppShell hero>
      
       <AppSection title="Skill's & Technology">
@@ -35,7 +35,7 @@ const Home = () => (
           {USER.project.contents
             .filter((filteredItem) => filteredItem.top)
             .map((item) => (
-              <AppProject id="project-component"  key={item.id} project={item} />
+              <AppProject key={item.id} project={item} />
             ))}
         </div>
         {/* <div className="text-center py-7">

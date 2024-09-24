@@ -154,7 +154,7 @@
           "Mongodb",
           
           
-          "Node","Express"
+          "Node","Express","Cloudinary","Multer"
         
        
         ],
