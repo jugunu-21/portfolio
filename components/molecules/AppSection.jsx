@@ -13,7 +13,7 @@ const AppSection = ({ title, children, decoration, noSeparator}) => {
       </h2>
     );
   };
-  const sectionId = title === "Projects's I have Completed" ? "project-component" :"";
+  const sectionId = title === "Projects's I have Completed" ? "project" :"";
   return (
     <section id={sectionId}
       className={`py-10 lg:py-16 px-3 ${
