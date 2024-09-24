@@ -16,9 +16,8 @@
     {
       "id": 3,
       "name": "Projects",
-      "url": "/projects"
+      "url": "/#project-component"
     },
-    
     {
       "id": 4,
       "name": "About",
@@ -31,7 +30,6 @@
     }
   ],
   "services": [
-   
     {
       "id": 1,
       "name": "Website dev",
@@ -74,7 +72,6 @@
       "name": "Next JS",
       "icon": "/skills/skill-nextjs.svg"
     },
-      
     {
       "id": 3,
       "name": "Javascript",
@@ -85,7 +82,6 @@
       "name": "Typescript",
       "icon": "/skills/Typescript Vector Icon.svg"
     },
- 
     {
       "id": 4,
       "name": "TailwindCss",
@@ -106,7 +102,6 @@
       "name": "Firebase",
       "icon": "/skills/skill-firebase.svg"
     },
-   
     {
       "id": 11,
       "name": "Github",
@@ -115,17 +110,17 @@
     {
       "id": 12,
       "name": "tRPC",
-      "icon": "/skills/logos--trpc.svg" 
+      "icon": "/skills/logos--trpc.svg"
     },
     {
       "id": 13,
       "name": "HTML",
-      "icon": "/skills/skill-html5.svg" 
+      "icon": "/skills/skill-html5.svg"
     },
     {
       "id": 14,
       "name": "CSS",
-      "icon": "/skills/skill-css3.svg" 
+      "icon": "/skills/skill-css3.svg"
     }
   ],
   "project": {
@@ -136,30 +131,62 @@
         "id": 1,
         "top": true,
         "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/urstyle.png?alt=media&token=cea70699-d99a-4fb3-98ed-060e3eb2b9aa",
-        "name": "Urstyle",
-        "stack": "Next JS, Tailwindcss,tRPC,Shadcn, Firebase",
+        "name": "Urstyle frontend",
+        "stack": [
+          "Next JS",
+          "Tailwindcss",
+          "tRPC",
+          "Shadcn",
+          "Firebase"
+        ],
         "category": "Personal Project",
-        "url": "https://urtsyle.vercel.app/"
+        "url": "https://urtsyle.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/urtsyle"
+      },
+      {
+        "id": 5,
+        "top": true,
+        "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/urstyle.png?alt=media&token=cea70699-d99a-4fb3-98ed-060e3eb2b9aa",
+        "name": "Urstyle backend",
+        "stack": [
+          "Mongodb",
+          "Tailwindcss",
+          
+          "Node","Express","React"
+        
+       
+        ],
+        "category": "Personal Project",
+        "url": "https://urtsyle.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/urstyle-backend"
       },
       {
         "id": 2,
         "top": true,
         "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%20(91).png?alt=media&token=22db919a-c759-4c94-9ba7-2c8028eb6ada",
         "name": "Keybolt",
-        "ˇstack": "Next JS, Tailwindcss,",
+        "stack": [
+          "Next JS",
+          "Tailwindcss","Vercel"
+        ],
         "category": "Personal Project",
-        "url": "https://keybolt.vercel.app/"  
+        "url": "https://keybolt.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/keybolt"
       },
       {
         "id": 3,
         "top": true,
         "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-website-b268e.appspot.com/o/Screenshot%20(90).png?alt=media&token=e6ecac61-1262-4119-af12-d36f9bd56b1d",
         "name": "Portfolio-Website",
-        "stack": "Next JS, CSS, Firebase",
+        "stack": [
+          "Next JS",
+          "Tailwindcss", "Firebase"
+         
+        ],
         "category": "Personal Project",
-        "url": "https://jugunu-portfolio.vercel.app/"
+        "url": "https://jugunu-portfolio.vercel.app/",
+        "giturl": "https://github.com/jugunu-21/portfolio"
       }
-     
     ]
   },
   "contact": {
@@ -190,11 +217,8 @@
         "category": "Email",
         "url": "mailto:aaruhijugunu@gmail.com"
       }
-     
-
     ]
   },
- 
   "about": {
     "title": "About",
     "description": "Learn more about my journey, experiences, and aspirations.",
@@ -221,7 +245,6 @@
       }
     ]
   },
- 
   "resume": {
     "title": "Resume",
     "description": "Explore my experiences, rewards, and education, as well as my activeness",
@@ -245,7 +268,6 @@
             "info": "Chai aur Code",
             "description": "Studied access and refresh tokens, user update controllers, and subscription schemas in backend development:",
             "url": "https://youtu.be/8k-kK3tsJFY?si=Dp3PqkZmkhr2sf22"
-           
           },
           {
             "id": 3,
@@ -254,7 +276,6 @@
             "info": "Chai aur Code",
             "description": "Completed the JavaScript Backend Roadmap, covering deployment, MERN integration, data modeling, API handling, and project setup:",
             "url": "https://youtu.be/7fjOw8ApZ1I?si=rhX2zVScfcVyg5DD/"
-           
           },
           {
             "id": 2,
@@ -263,7 +284,6 @@
             "info": "CodeWithHarry ",
             "description": "Completed the Complete Next.js Course in Hindi, mastering server-side rendering, file-based routing, MongoDB integration, and application deployment:",
             "url": "https://youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG&si=SvIWk8LEk_SQxGw3"
-           
           },
           {
             "id": 1,
@@ -272,7 +292,6 @@
             "info": "Front-end Learning Path",
             "description": "Completed the Namaste JavaScript course, gaining in-depth knowledge of JavaScript fundamentals, internals, and interview preparation for web development:",
             "url": "https://youtu.be/pN6jk0uUrD8?si=BfsIuRX0zOYQvI12"
-            
           }
         ]
       },
@@ -294,7 +313,7 @@
             "name": "Academic Global High School",
             "info": "Senior Secondary School (11th and 12th Grade)",
             "description": "Completed 11th and 12th grades at Academic Global High School, Gorakhpur, Kushmi Jungle.",
-            "url": "https://www.academicglobalhighschool.com" 
+            "url": "https://www.academicglobalhighschool.com"
           },
           {
             "id": 3,
@@ -302,12 +321,10 @@
             "name": "Central Public School",
             "info": "Secondary School (9th and 10th Grade)",
             "description": "Attended Central Public School, Pipraich, Gorakhpur for 9th and 10th grades.",
-            "url": "https://www.centralpublicschool.com" 
+            "url": "https://www.centralpublicschool.com"
           }
-          
         ]
       }
-      
     ]
   }
 }
