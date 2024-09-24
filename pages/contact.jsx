@@ -15,7 +15,7 @@ const Contact = () => (
       description={USER.contact.description}
     />
     <AppSection title="Connect With Me">
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-3  gap-4">
         {USER.contact.contents.map((item) => (
           <a
             key={item.id}
